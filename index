@@ -96,7 +96,7 @@
         <div class="header-content">
 <font color="black">
             <!-- Add your profile picture here -->
-            <img src="C:\Users\ADMIN\Downloads\mongosh-2.3.7-win32-x64\23h146.jpg" class="profile-picture">
+            <img src="photo.jpg" class="profile-picture">
             <h1>BHUVANESH.R</h1>
             <p>Bachelor of Computer Application (BCA)</p>
         </font>
@@ -153,7 +153,7 @@
         <div class="section-content">
             <h2>Projects</h2>
             <ul>
-                               <li><a href="#">College Portal</a></li> 
+                               <li><a href="timetable.html">College Portal</a></li> 
                 <!-- Add more project links here -->
             </ul>
         </div>
